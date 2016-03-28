@@ -1,4 +1,4 @@
 baseurl = "http://ged1959.github.io/gakujutu/"
 languageCode = "ja-jp"
-title = "My Memo"
+title = "Project Memo"
 canonifyurls = true
