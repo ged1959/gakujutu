@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memo on My Memo</title>
+    <link>http://ged1959.github.io/gakujutu/tags/memo/</link>
+    <description>Recent content in Memo on My Memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 28 Mar 2016 13:28:45 +0900</lastBuildDate>
+    <atom:link href="http://ged1959.github.io/gakujutu/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>このページについて</title>
+      <link>http://ged1959.github.io/gakujutu/post/first/</link>
+      <pubDate>Mon, 28 Mar 2016 13:28:45 +0900</pubDate>
+      
+      <guid>http://ged1959.github.io/gakujutu/post/first/</guid>
+      <description>
+
+&lt;p&gt;プロジェクトに関するメモを残す。&lt;/p&gt;
+
+&lt;h2 id=&#34;内容の案:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;内容の案&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;関連資料&lt;/li&gt;
+&lt;li&gt;関連リンク&lt;/li&gt;
+&lt;li&gt;スケジュール&lt;/li&gt;
+&lt;li&gt;プレゼン用素材&lt;/li&gt;
+&lt;li&gt;進行表&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
